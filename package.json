@@ -1,0 +1,20 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "购物车",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "d",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^2.5.13"
+  },
+  "dependencies": {
+    "vue-resource": "^1.5.0"
+  }
+}
